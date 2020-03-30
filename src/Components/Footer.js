@@ -8,7 +8,7 @@ const Footer = () => {
         <div className='row'>
           <div className='col-md-6 mt-md-0 mt-3'>
             <h5 className='text-uppercase font-weight-bold'>Contact Us</h5>
-            <p>You can contact us on 234-8111-111-11</p>
+            <p>You can contact us on 000-000-0000</p>
           </div>
           <div className='col-md-6 mb-md-0 mb-3'>
             <h5 className='text-uppercase font-weight-bold'>Return Policy</h5>
@@ -17,8 +17,8 @@ const Footer = () => {
         </div>
       </div>
       <div className='footer-copyright text-center py-3'>
-        © 2019 Copyright:
-        <span> Shoppr</span>
+        © 2020 Copyright
+        <span> CoronaCrafts</span>
       </div>
     </footer>
   );

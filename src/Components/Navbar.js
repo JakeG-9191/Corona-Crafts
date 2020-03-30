@@ -3,7 +3,7 @@ import React from 'react';
 const Navbar = props => {
   return (
     <nav className='navbar navbar-light bg-light'>
-      <h3>Shoppr</h3>
+      <h3>CoronaCrafts</h3>
       <button
         className='btn btn-outline-success my-2 my-sm-0'
         onClick={() => props.show()}
